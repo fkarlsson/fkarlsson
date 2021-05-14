@@ -1,5 +1,5 @@
 | #  | Film | Yo-Yo | FPK | Avg |
-| --- | --- | --- | --- | --- |
+| :---: | --- | :---: | :---: | :---: |
 | 1 | Captain America: The First Avenger | 4 | 4 | 4 |
 | 2 | Captain Marvel | 3.5 | 3 | 3.25 |
 | 3 | Iron Man | 3.5 | 4 | 3.75 |
