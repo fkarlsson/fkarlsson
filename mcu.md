@@ -9,7 +9,7 @@
 | 7 | The Avengers | 4 | 4 | 4 |
 | 8 | Iron Man 3 | 3.5 | 4.5 | 4 |
 | 9 | Thor: The Dark World | 3 | 4 | 3.5 |
-| 10 | Captain America: The Winter Solider | x | x | x |
+| 10 | Captain America: The Winter Solider | 4 | 4.5 | 4.25 |
 | 11 | Guardians of the Galaxy | x | x | x |
 | 12 | Guardians of the Galaxy 2 | x | x | x |
 | 13 | Avengers: Age of Ultron | x | x | x |
