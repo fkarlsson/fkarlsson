@@ -26,3 +26,4 @@
 | 24 | Falcon and the Winter Soldier | x | x | x |
 | 25 | Spider-Man: Far From Home | x | x | x |
 | 26 | (Spider-Man: Into the Spider-Verse) | x | x | x |
+| **Avg** | | **x** | **x** | **x** |
