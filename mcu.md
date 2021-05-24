@@ -12,7 +12,7 @@
 | 10 | Captain America: The Winter Solider | 4 | 4.5 | 4.25 |
 | 11 | Guardians of the Galaxy | 2 | 2.5 | 2.25 |
 | 12 | Guardians of the Galaxy 2 | 2 | 2 | 2 |
-| 13 | Avengers: Age of Ultron | x | x | x |
+| 13 | Avengers: Age of Ultron | 3.5 | 3.5 | 3.5 |
 | 14 | Ant-Man | x | x | x |
 | 15 | Captain America: Civil War | x | x | x |
 | 16 | Spider-Man: Homecoming | x | x | x |
