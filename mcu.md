@@ -13,8 +13,8 @@
 | 11 | Guardians of the Galaxy | 2 | 2.5 | 2.25 |
 | 12 | Guardians of the Galaxy 2 | 2 | 2 | 2 |
 | 13 | Avengers: Age of Ultron | 3.5 | 3.5 | 3.5 |
-| 14 | Ant-Man | x | x | x |
-| 15 | Captain America: Civil War | x | x | x |
+| 14 | Ant-Man | - | - | - |
+| 15 | Captain America: Civil War | 4 | 3.5 | 3.75 |
 | 16 | Spider-Man: Homecoming | x | x | x |
 | 17 | Doctor Strange | x | x | x |
 | 18 | Black Panther | x | x | x |
