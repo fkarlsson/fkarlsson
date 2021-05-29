@@ -15,7 +15,7 @@
 | 13 | Avengers: Age of Ultron | 3.5 | 3.5 | 3.5 |
 | 14 | Ant-Man | - | - | - |
 | 15 | Captain America: Civil War | 4 | 3.5 | 3.75 |
-| 16 | Spider-Man: Homecoming | x | x | x |
+| 16 | Spider-Man: Homecoming | 5 | 5 | 5 |
 | 17 | Doctor Strange | x | x | x |
 | 18 | Black Panther | x | x | x |
 | 19 | Thor: Ragnarok | x | x | x |
