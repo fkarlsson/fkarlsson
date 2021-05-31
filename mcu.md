@@ -16,8 +16,8 @@
 | 14 | Ant-Man | - | - | - |
 | 15 | Captain America: Civil War | 4 | 3.5 | 3.75 |
 | 16 | Spider-Man: Homecoming | 5 | 5 | 5 |
-| 17 | Doctor Strange | x | x | x |
-| 18 | Black Panther | x | x | x |
+| 17 | Doctor Strange | - | - | - |
+| 18 | Black Panther | 5 | 5 | 5 |
 | 19 | Thor: Ragnarok | x | x | x |
 | 20 | Ant-Man and the Wasp | x | x | x |
 | 21 | Avengers: Infinity War | x | x | x |
