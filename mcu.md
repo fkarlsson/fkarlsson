@@ -18,7 +18,7 @@
 | 16 | Spider-Man: Homecoming | 5 | 5 | 5 |
 | 17 | Doctor Strange | - | - | - |
 | 18 | Black Panther | 5 | 5 | 5 |
-| 19 | Thor: Ragnarok | x | x | x |
+| 19 | Thor: Ragnarok | 5 | 5 | 5 |
 | 20 | Ant-Man and the Wasp | x | x | x |
 | 21 | Avengers: Infinity War | x | x | x |
 | 22 | Avengers: Endgame | x | x | x |
