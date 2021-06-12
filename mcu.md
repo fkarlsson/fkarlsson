@@ -20,8 +20,8 @@
 | 18 | Black Panther | 5 | 5 | 5 |
 | 19 | Thor: Ragnarok | 5 | 5 | 5 |
 | 20 | Avengers: Infinity War | 5 | 5 | 5 |
-| 21 | Ant-Man and the Wasp | x | x | x |
-| 22 | Avengers: Endgame | x | x | x |
+| 21 | Ant-Man and the Wasp | 3 | 3 | 3 |
+| 22 | Avengers: Endgame | 5 | 5 | 5 |
 | 23 | WandaVision | x | x | x |
 | 24 | Falcon and the Winter Soldier | x | x | x |
 | 25 | Spider-Man: Far From Home | x | x | x |
