@@ -28,5 +28,6 @@
 | 26 | (Spider-Man: Into the Spider-Verse) | x | x | x |
 | 27 | Loki | 4 | 4.5 | 4.25 |
 | 28 | Black Widow | 3.5 | 3 | 3.25 |
-| 29 | (What If?) | x | x | x |
+| 29 | (M.O.D.O.K.) | x | x | x |
+| 30 | (What If?) | x | x | x |
 | **Avg** | | **x** | **x** | **x** |
