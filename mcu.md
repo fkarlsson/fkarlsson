@@ -22,8 +22,11 @@
 | 20 | Avengers: Infinity War | 5 | 5 | 5 |
 | 21 | Ant-Man and the Wasp | 3 | 3 | 3 |
 | 22 | Avengers: Endgame | 5 | 5 | 5 |
-| 23 | WandaVision | x | x | x |
-| 24 | Falcon and the Winter Soldier | x | x | x |
-| 25 | Spider-Man: Far From Home | x | x | x |
+| 23 | WandaVision | 5 | 5 | 5 |
+| 24 | Falcon and the Winter Soldier | x | 3.5 | x |
+| 25 | Spider-Man: Far From Home | 4.5 | 4 | 4.25 |
 | 26 | (Spider-Man: Into the Spider-Verse) | x | x | x |
+| 27 | Loki | 4 | 4.5 | 4.25 |
+| 28 | Black Widow | 3.5 | 3 | 3.25 |
+| 29 | (What If?) | x | x | x |
 | **Avg** | | **x** | **x** | **x** |
